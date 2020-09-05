@@ -12,8 +12,8 @@ https://drive.google.com/file/d/1Y0WH3jUDJo1AMNw1PedqXFsXBP-EZUbg/view?usp=shari
 
 Dependencies:
 
-Tensorflow
-Keras
-MTCNN (Face Extraction)
-FaceNet (Generate Embeddings)
-Opencv (To capture Images)
+Tensorflow,
+Keras,
+MTCNN (Face Extraction),
+FaceNet (Generate Embeddings),
+Opencv (Capture Images)
