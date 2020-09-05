@@ -17,3 +17,15 @@ Keras,
 MTCNN (Face Extraction),
 FaceNet (Generate Embeddings),
 Opencv (Capture Images)
+
+Demo:
+https://drive.google.com/file/d/1sUF7U9AuEPn6TgfhTJqjFj8j3ILjV4AB/view?usp=sharing
+
+Credits:
+Ipazc
+https://github.com/ipazc/mtcnn (MTCNN)
+
+Fausto Morales
+https://github.com/faustomorales/keras-facenet (FaceNet)
+
+MIT License
